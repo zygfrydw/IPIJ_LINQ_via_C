@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ITSILESIA.IPIJ.IPIJ_SQL
+namespace ITSILESIA.IPIJ_SQL_2010
 {
     //Avarange!!
     static class AggregationEx
     {
         public static void Run()
         {
-            using(var context = new DefectModelDataContextDataContext())
+            using(var context = new DefectModelDataContext2010DataContext())
             {
                 context.Log = Console.Out;
 

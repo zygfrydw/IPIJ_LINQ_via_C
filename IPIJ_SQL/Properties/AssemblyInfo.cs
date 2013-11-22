@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ITSILESIA.IPIJ.IPIJ_SQL")]
+[assembly: AssemblyTitle("ITSILESIA.IPIJ_SQL_2010")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ITSILESIA.IPIJ.IPIJ_SQL")]
+[assembly: AssemblyProduct("ITSILESIA.IPIJ_SQL_2010")]
 [assembly: AssemblyCopyright("Copyright ©  2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

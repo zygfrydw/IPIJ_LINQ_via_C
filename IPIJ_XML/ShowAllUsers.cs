@@ -10,7 +10,7 @@ namespace ITSILESIA.IPIJ.IPIJ_XML
     {
         public static void Run()
         {
-            XDocument doc = XDocument.Load("defect_system.xml");
+            XDocument doc = XDocument.Load("../../defect_system.xml");
             XElement root = doc.Root;
 
             var query = root.Element("users").Elements()

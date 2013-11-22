@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace IPIJ_SQL_2010.Properties {
+namespace ITSILESIA.IPIJ_SQL_2010.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

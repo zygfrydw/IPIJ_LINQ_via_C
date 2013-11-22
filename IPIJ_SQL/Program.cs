@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ITSILESIA.IPIJ.IPIJ_SQL
+namespace ITSILESIA.IPIJ_SQL_2010
 {
     class Program
     {
