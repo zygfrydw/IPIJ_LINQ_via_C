@@ -1,0 +1,14 @@
+using System;
+using System.ComponentModel;
+using System.Threading;
+using System.Threading.Tasks;
+
+namespace Chapter15
+{
+    [Description("Listing 15.08")]
+    class AwaitingCancellation
+	{
+ 		// The content of this class has been removed due to the author's rights
+		// Full code you can download from http://csharpindepth.com/ 
+	}
+}
